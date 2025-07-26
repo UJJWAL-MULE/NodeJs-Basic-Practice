@@ -2,11 +2,7 @@ const cloudinary = require('cloudinary').v2
 const fs = require('fs')
 const dotenv = require('dotenv')
 
-// cloudinary.config({ 
-//   cloud_name: 'dtcmp7ib1'   ,                        
-//   api_key:   '988572837952298',                    
-//   api_secret:'sH8nx8XifvDT3XOlHmYfg-wXA1c'       
-// });
+
 
 dotenv.config()
 
