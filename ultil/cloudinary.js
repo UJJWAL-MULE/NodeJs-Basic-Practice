@@ -39,18 +39,3 @@ const uploadToCloudnary= async (localFilePath)=>{
 }
 
 module.exports=uploadToCloudnary
-
-
-
-
-
-
-
-
-// import {v2 as cloudinary} from 'cloudinary';
-          
-// cloudinary.config({ 
-//   cloud_name: 'dtcmp7ib1', 
-//   api_key: '988572837952298', 
-//   api_secret: 'sH8nx8XifvDT3XOlHmYfg-wXA1c' 
-// });
